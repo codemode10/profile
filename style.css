@@ -34,7 +34,7 @@ line-height: 30px;
     text-decoration: none;
     background-color: #28464B;
     color: white;
-    border-radius: 5px;
+    border: 1px solid white;
   }
 
 .container {
