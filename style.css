@@ -64,9 +64,9 @@ line-height: 30px;
   }
 
   .image-circle {
-    width: 90px;
-    height: 90px;
-    border-radius: 90px;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
   }
 
   @media (max-width: 960px) {
